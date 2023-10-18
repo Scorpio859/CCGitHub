@@ -2,7 +2,7 @@ body {
     background-color: #232323;
     margin-top: 50px;
     font-family: 'Lato';
-    color: white;
+    color: black;
 }
 
 .item {
@@ -47,6 +47,7 @@ button:focus {
 
 h2 {
     text-align: center!important;
+    color: white;
 }
 
 img {
